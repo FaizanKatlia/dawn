@@ -1,0 +1,101 @@
+#div1{
+    margin-top: -8px;
+    margin-left: -8px;
+    height: 30px;
+    width: 101%;
+    border: 2px solid;
+    background-color:black;
+}
+.BlMen{
+    float:left;
+    height:100%;
+    }
+.heads{
+    position:relative;
+    top:4px;
+    left:380px;
+    color:#9FA6A1;
+    padding-right:14px;
+    font-size:11px;
+    }
+#head1{
+    font-size: 56pt;
+    margin-left: 680px;
+    margin-top: 0px;
+}
+#hepara{
+    font-size: smaller;
+    margin-left: 680px;
+    margin-top: -60px;
+    color: #9FA6A1;
+}
+table{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-spacing: 1em; 
+    line-height: 30px;         
+}
+
+hr{
+    margin-top: -10px;
+}
+a{
+    color:black;
+}
+.red{
+    color: red;
+}
+a:link{
+    text-decoration: none; 
+}
+
+a:active{
+    color: white;
+}
+.cursor:hover{
+    background-color:lightgray;
+}
+#isearch{
+    width: 12px;
+    height: 12px;
+}
+#search{
+    border-style: none;
+    color: gray;
+    font-size: 11px;
+}
+
+#detail{
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.comment{
+    border-color: gray  ;
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    border-style: ridge;
+}
+.calign{
+    margin-left: 100px;
+}
+textarea{
+    font-size: 30px;
+    color: lightgray;
+    
+}
+#submit{
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 513px;
+}
+#cap{
+    color: gray;
+    font-size: 20px;
+}
